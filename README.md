@@ -10,4 +10,4 @@ The investigations use the [SOC home lab](https://github.com/Krishpatel175/soc-h
 |---|---|---|---|
 | 001 | [Unauthorized admin account with persistence](incidents/INC-001-unauthorized-admin-persistence.md) | Lab: Windows endpoint | ✅ Closed |
 | 002 | [SMB brute-force from an internal host (successful)](incidents/INC-002-smb-brute-force.md) | Lab: Kali to Windows | ✅ Closed |
-| 003 | Investigation of a public dataset | Public practice data | 🔜 Planned |
+| 003 | [Phishing email impersonating a bank rewards program](incidents/INC-003-phishing-bank-rewards-lure.md) | Public dataset: phishing_pot | ✅ Closed |
